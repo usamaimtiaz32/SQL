@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sqlite</string>
+    <string name="Age">Age</string>
+    <string name="StudentName">StudentName</string>
+    <string name="ActiveOrNot">ActiveOrNot</string>
+    <string name="ButtonViewAll">View Recrd</string>
+    <string name="Add">Add Record</string>
+</resources>
